@@ -60,7 +60,7 @@ function getTasks() {
             <div class="card-body">
                 <p> ${title} - ${description} </p>
                 <a href="#" class="btn btn-danger ml-5" onclick="deleteTask('${title}')">
-                 Elimnimar
+                 Eliminar
                 </a>
             </div>
         </div>`;
